@@ -1,0 +1,22 @@
+tensorflow
+ultralytics
+gdown
+flask
+dvc
+mlflow
+roboflow
+python-box==6.0.2
+joblib
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+opencv-python-headless
+Pillow
+tqdm
+python-dotenv
+PyYAML
+ensure
+-e .
